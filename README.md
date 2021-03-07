@@ -6,4 +6,4 @@
 
 Instruction:
 - Download 'data_fusion_train.parquet' file from competition from the [Boosters](https://boosters.pro/championship/data_fusion/overview)
-- Run iteration_1 or iteration_2 notebook in the jupyter
+- Run iteration_1(data visualization) or iteration_2(baseline), iteration_4(data augmentation and lstm model) notebook in the jupyter
